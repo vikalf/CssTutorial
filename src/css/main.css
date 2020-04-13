@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(247, 243, 243);
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px;
+}
+
+#product-overview {
+ background-color: #db1313
+}
+
+.section-title {
+    color: #23cf13;
+}
+
+
+#product-overview h1 {
+    color: white;
+    font-family: 'Arvo', sans-serif;
+}
